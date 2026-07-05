@@ -1,0 +1,27 @@
+body{
+  margin:  0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: navy;
+  color: white;
+
+}
+#mycanvas{
+   
+}
+#title-h2{
+
+}
+
+#gameover-h2 {
+
+color: red;
+
+}
+pre{
+  margin: 0px ;
+}
+#score-p {
+  margin-top: 0px;
+}
